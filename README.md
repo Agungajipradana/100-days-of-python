@@ -13,20 +13,24 @@
 # 100 Days of Python
 
 Welcome to the **100 Days of Python** repository!
-This project is a beginner-friendly guide to learning the fundamentals of Python, one of the most popular and versatile programming languages in the world—used for web development, data science, automation, and more.
+This project is a beginner-friendly guide to learning the fundamentals of Python, one of the most popular and versatile programming languages in the world used for web development, data science, automation, and more.
 
 ---
 
 ## 📘 Agenda
 
-- 📌 01 - Basics (variables, data types, input/output, operators)
-- 📌 02 - Control Flow (`if`, `elif`, `else`, loops)
-- 📌 03 - Data Structures (list, tuple, dictionary, set)
-- 📌 04 - Functions
-- 📌 05 - OOP (classes, objects, inheritance)
-- 📌 06 - Modules and Libraries
-- 📌 07 - File Handling
-- 📌 08 - Error Handling
+- 📌 01 - Basics (Intro, Get Started, Syntax, Comments, Variables, Output)
+- 📌 02 - Data Types (Numbers, Casting, Strings, Booleans, None)
+- 📌 03 - Operators
+- 📌 04 - Data Structures (Lists, Tuples, Sets, Dictionaries, Arrays)
+- 📌 05 - Control Flow (If...Else, Match, While Loops, For Loops)
+- 📌 06 - Functions (Functions, Range, Iterators)
+- 📌 07 - Modules and Pip (Modules, PIP, VirtualEnv)
+- 📌 08 - Error Handling (Try...Except, String Formatting)
+- 📌 09 - User Input and RegEx
+- 📌 10 - OOP (Classes/Objects, `__init__`, self, Properties, Methods, Inheritance, Polymorphism, Encapsulation, Inner Classes)
+- 📌 11 - File Handling (Read, Write, Create, Delete Files)
+- 📌 12 - Dates and Math (Dates, Math, JSON)
 - 📌 And many more foundational topics...
 
 Each folder includes hands-on examples and exercises to help you learn by doing.
@@ -77,15 +81,17 @@ print(greeting)
 
 By the end of this course, you will be able to:
 - Understand and write basic Python syntax
-- Work with data types, variables, and functions
+- Work with data types, variables, and operators
 - Use conditionals and loops to build logic
-- Understand OOP concepts and error handling
+- Work with data structures like lists, tuples, and dictionaries
+- Write reusable functions and understand iterators
+- Understand OOP concepts: classes, objects, inheritance, and polymorphism
+- Handle files and errors properly
 - Gain a solid foundation to explore advanced topics, including:
 
 ### 🔧 Data & Automation
-- Working with files (CSV, JSON, TXT)
 - Web scraping (`requests`, `BeautifulSoup`)
-- Data analysis (`pandas`, `numpy`)
+- Data analysis (`NumPy`, `Pandas`, `SciPy`)
 - Automation scripts
 
 ### 🖥️ Web Development
